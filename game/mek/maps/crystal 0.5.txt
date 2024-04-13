@@ -1,0 +1,39 @@
+Mek Arcade map "crystal" 
+
+Author: Raiden 
+(contact: please remind me in the RE-forums for suggestions or feedback)
+
+
+Install
+Extract these files to directory c:\user\username\own documents\my games\Red Eclipse\maps(create it, if it doesn't exists)
+Add the "Raiden" folder to the directory c:\user\username\own documents\my games\Red Eclipse\
+This is for win users mainly, if you are using Linux or mac OS, watch out for your Red Eclipse home folder and add this as explained above.
+
+
+
+description
+An environmental study and a potential map for Mek Arcade. It's playing on a fictional asteroid, which consists out of crystaloids.
+(It comes with an additional Skybox and cloudbox)
+
+ 
+ _________
+|         |
+| license |
+ ---------
+
+the Mek Arcade map "crystal" is licensed under a
+Creative Commons Attribution-ShareAlike 3.0 Unported License by Raiden 2013
+available at http://creativecommons.org/licenses/by-sa/3.0/
+
+the skybox "greennebula"is licensed under a
+Creative Commons Attribution-ShareAlike 3.0 Unported License by Raiden 2013
+available at http://creativecommons.org/licenses/by-sa/3.0/
+
+the skybox "myst"is licensed under a
+Creative Commons Attribution-ShareAlike 3.0 Unported License by Raiden 2013
+available at http://creativecommons.org/licenses/by-sa/3.0/
+
+both skyboxes where made with Spacescape version 0.3 - released 10/12/2010
+Copyright 2010 Alex Peterson, All Rights Reserved.
+
+

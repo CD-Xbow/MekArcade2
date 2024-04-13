@@ -1,0 +1,5 @@
+texture 0 "noctua-graphics/ground/cobbles01.jpg"
+texture 0 "noctua-graphics/ground/dry_mud.jpg"
+texture 0 "noctua-graphics/ground/snowy02.jpg"
+texture 0 "noctua-graphics/ground/snowy03.jpg"
+texture 0 "noctua-graphics/ground/snowy05.jpg"

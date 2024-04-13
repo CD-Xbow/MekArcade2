@@ -1,0 +1,8 @@
+texture 0 "noctua-graphics/wall/brick01.jpg"
+texture 0 "noctua-graphics/wall/brick02.jpg"
+texture 0 "noctua-graphics/wall/conc01.jpg"
+texture 0 "noctua-graphics/wall/conc02.jpg"
+texture 0 "noctua-graphics/wall/conc05.jpg"
+texture 0 "noctua-graphics/wall/plast02.jpg"
+texture 0 "noctua-graphics/wall/plast03.jpg"
+texture 0 "noctua-graphics/wall/wall02.jpg"

@@ -1,0 +1,19 @@
+Mek Arcade map "dry MA" 
+Author: Raiden 
+
+(contact: please remind me in the RE-forums for suggestions or feedback)
+
+
+description
+This map plays in a desert, a death valley, maybe on a far planet. 
+I tried to have the proportions of mechs in mind, while creating.Because I don't know how Mek Arcade will evolve, this comes in a basic layout only. No special entities or powerup placements. The only used light is a skylight until now. There should also be room for Mek Arcade's special mapmodels, which may come someday... .
+ 
+ _________
+|         |
+| license |
+|_________|
+
+the Red Eclipse map "dry_MA" is licensed under a
+Creative Commons Attribution-ShareAlike 3.0 Unported License by Raiden 2012
+available at http://creativecommons.org/licenses/by-sa/3.0/
+
